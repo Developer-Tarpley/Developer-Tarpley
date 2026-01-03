@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Developer-Tarpley
 - 👀 I’m interested in ... Front-End & Back-end development
-- 🌱 I’m currently learning ... SQL
-- 💞️ I’m looking to collaborate on ... Website & Mobile App development
+- 🌱 I’m currently learning ... how to understand user-stories and bring them to life
+- 💞️ I’m looking to collaborate on ... Website end-to-end development life cycles
 - 📫 How to reach me ... developertarpley@gmail.com
 
 <!---
